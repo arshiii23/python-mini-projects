@@ -33,8 +33,18 @@ Concepts Used:
 - Conditional logic
 
 ---
+🔹 2. Expense Tracker
 
-🔹 2. GUI Calculator
+A simple Python application to track daily expenses.
+
+## Features
+- Add expenses
+- View expense summary
+- Calculate total expenses
+
+---
+
+🔹 3. GUI Calculator
 
 A desktop calculator application built using Tkinter.
 
@@ -51,8 +61,25 @@ Concepts Used:
 - Functions
 
 ---
+🔹 4.File Organizer
 
-🔹 3. Number Guessing Game
+A Python automation project that organizes files into folders based on file type.
+
+## Features
+- Automatically sorts files
+- Creates folders if they do not exist
+- Supports images, videos, documents, and music files
+
+## Technologies Used
+- Python
+- os module
+- shutil module
+
+## How to Run
+```bash
+---
+
+🔹 5. Number Guessing Game
 
 A simple interactive game where the user guesses a randomly generated number.
 
