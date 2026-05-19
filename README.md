@@ -75,9 +75,6 @@ A Python automation project that organizes files into folders based on file type
 - os module
 - shutil module
 
-## How to Run
-```bash
----
 
 🔹 5. Number Guessing Game
 
@@ -97,7 +94,7 @@ Concepts Used:
 
 ---
 
-🔹 4. Smart Intro Program
+🔹 6. Smart Intro Program
 
 A beginner-friendly program that interacts with the user and displays personalized information.
 
@@ -115,7 +112,7 @@ Concepts Used:
 
 ---
 
-🔹 5. Weather App 🌦️
+🔹 7. Weather App 🌦️
 
 A Python application that fetches real-time weather data using an API.
 
