@@ -61,7 +61,23 @@ Concepts Used:
 - Functions
 
 ---
-🔹 4.File Organizer
+🔹 4.Multi-Threaded Downloader
+
+A Python downloader that downloads files using threading.
+
+## Features
+- Faster downloads
+- Multi-threading support
+- Simple implementation
+
+## Technologies Used
+- Python
+- threading
+- requests
+
+---
+
+🔹 5.File Organizer
 
 A Python automation project that organizes files into folders based on file type.
 
@@ -76,7 +92,7 @@ A Python automation project that organizes files into folders based on file type
 - shutil module
 
 
-🔹 5. Number Guessing Game
+🔹 6. Number Guessing Game
 
 A simple interactive game where the user guesses a randomly generated number.
 
@@ -94,7 +110,7 @@ Concepts Used:
 
 ---
 
-🔹 6. Smart Intro Program
+🔹 7. Smart Intro Program
 
 A beginner-friendly program that interacts with the user and displays personalized information.
 
@@ -112,7 +128,7 @@ Concepts Used:
 
 ---
 
-🔹 7. Weather App 🌦️
+🔹 8. Weather App 🌦️
 
 A Python application that fetches real-time weather data using an API.
 
